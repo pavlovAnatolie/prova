@@ -1,2 +1,3 @@
 ciao sono pavlov (locale)
 ciao (git hub)
+ciao (locale 2.0)
